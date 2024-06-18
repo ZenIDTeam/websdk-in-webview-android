@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebSDK Demo</string>
+    <string name="url">URL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_my_credentials">Remember my credentials</string>
+    <string name="open_web_sdk">Open WebSDK</string>
+</resources>
